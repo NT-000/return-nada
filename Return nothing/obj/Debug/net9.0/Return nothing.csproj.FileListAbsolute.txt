@@ -1,0 +1,14 @@
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\obj\Debug\net9.0\Return nothing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\obj\Debug\net9.0\Return nothing.AssemblyInfoInputs.cache
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\obj\Debug\net9.0\Return nothing.AssemblyInfo.cs
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\obj\Debug\net9.0\Return nothing.csproj.CoreCompileInputs.cache
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\bin\Debug\net9.0\Return nothing.exe
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\bin\Debug\net9.0\Return nothing.deps.json
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\bin\Debug\net9.0\Return nothing.runtimeconfig.json
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\bin\Debug\net9.0\Return nothing.dll
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\bin\Debug\net9.0\Return nothing.pdb
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\obj\Debug\net9.0\Return nothing.dll
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\obj\Debug\net9.0\refint\Return nothing.dll
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\obj\Debug\net9.0\Return nothing.pdb
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\obj\Debug\net9.0\Return nothing.genruntimeconfig.cache
+C:\Users\nicth\Documents\GitHub\return-nada\Return nothing\obj\Debug\net9.0\ref\Return nothing.dll
